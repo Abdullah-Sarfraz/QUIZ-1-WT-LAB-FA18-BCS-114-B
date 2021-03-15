@@ -1,19 +1,23 @@
-.navbar-brand h1{
-    font-family: 'Fascinate', cursive;
-    font-weight: bold;
-    letter-spacing: 0.5rem;
+.navbar-brand h1 {
+  font-family: "Fascinate", cursive;
+  font-weight: bold;
+  letter-spacing: 0.5rem;
 }
-.navbar-brand p{
-    font-family: 'Syne Mono', monospace;
-    font-weight: inherit;
-    letter-spacing: 0.2rem;
+.navbar-brand p {
+  font-family: "Syne Mono", monospace;
+  font-weight: inherit;
+  letter-spacing: 0.2rem;
 }
-.nav-item{
-    font-family: 'Syne Mono', monospace;
-    font-weight: bold;
-    font-size: large;
+.nav-item {
+  font-family: "Syne Mono", monospace;
+  font-weight: bold;
+  font-size: large;
 }
-.head{
-    font-family: 'Redressed', cursive;
-    font-weight: bold;
+.head {
+  font-family: "Redressed", cursive;
+  font-weight: bold;
+}
+.Image {
+  width: 100%;
+  height: 90%;
 }
